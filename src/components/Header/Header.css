@@ -1,0 +1,22 @@
+body {
+  font-family: "Karla", sans-serif;
+  height: 100vh;
+  background: linear-gradient(#eccc6b, #d0885c);
+}
+
+.container-body {
+  width: 67%;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: rgb(219, 238, 243);
+}
+
+.exch-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container-img {
+  display: flex;
+  margin: 0px auto;
+}

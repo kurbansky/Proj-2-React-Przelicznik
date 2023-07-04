@@ -1,0 +1,39 @@
+.amount {
+  width: 150px;
+  height: 30px;
+  font-size: medium;
+  background-color: rgb(246, 235, 222);
+}
+
+form {
+  display: flex;
+}
+
+.sel {
+  margin-top: 7px;
+  margin-left: 5px;
+  font-size: medium;
+  background-color: rgb(246, 235, 222);
+  height: 20px;
+}
+
+.result {
+  display: flex;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.btn {
+  display: flex;
+  width: 100px;
+  margin-left: 20px;
+  align-items: center;
+  justify-content: center;
+  font-size: medium;
+  background-color: rgb(246, 235, 222);
+  border: 3px outset #d0885c;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 6px 15px;
+}
