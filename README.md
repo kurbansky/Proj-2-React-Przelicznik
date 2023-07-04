@@ -8,7 +8,7 @@
 - [General information](#general-information)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Acknowledgements](#acknowledgements)
+
 
 ## General Information
 
