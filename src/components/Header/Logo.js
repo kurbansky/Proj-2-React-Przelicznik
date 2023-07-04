@@ -5,7 +5,7 @@ const Logo = () => {
     <div className="logo">
       <img
         src={require("../../assets/charts.jpg")}
-        alt="Photo of a stock charts on a computer and a mobile phone"
+        alt="A stock charts on a computer and a mobile phone"
       />
     </div>
   );
