@@ -9,6 +9,11 @@ form {
   display: flex;
 }
 
+.exch-container {
+  display: flex;
+  justify-content: center;
+}
+
 .sel {
   margin-top: 7px;
   margin-left: 5px;
